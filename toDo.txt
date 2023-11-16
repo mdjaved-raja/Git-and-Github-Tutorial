@@ -6,3 +6,4 @@ My To-Do List
 4. Attend classes on time.
 5. Visit Someone.
 6. Apply for remote jobs. 
+7. Practice code again.
